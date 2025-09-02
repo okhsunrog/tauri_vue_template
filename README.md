@@ -60,6 +60,7 @@ bun tauri build
 
 ## Scripts (Bun)
 
+- `bun install` – Install dependencies
 - `bun tauri dev` – Full app dev (Vite + Tauri)
 - `bun tauri build` – Build installers/bundles
 - `bun type-check` – `vue-tsc` project check

@@ -99,6 +99,7 @@ pub struct MyEvent { pub message: String }
 
 ## Script Reference (Bun)
 
+- `bun install` – Install dependencies
 - `bun tauri dev` – Dev (Vite + Tauri, generates Specta bindings)
 - `bun tauri build` – Build installers/bundles
 - `bun type-check` – `vue-tsc` project check
@@ -125,3 +126,4 @@ pub struct MyEvent { pub message: String }
 3) Terminal displays startup logs and test logs
 4) `bun lint:check`, `bun format:check`, and `bun type-check` pass
 5) `bun tauri build` succeeds
+ucceeds
